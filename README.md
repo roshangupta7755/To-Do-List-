@@ -1,5 +1,5 @@
 TodoList Pro
-A modern, feature-rich task management web application built with vanilla JavaScript, HTML, and CSS. TodoList Pro helps you organize your tasks with an intuitive interface, deadline tracking, alarm notifications, and image attachments.hh
+A modern, feature-rich task management web application built with vanilla JavaScript, HTML, and CSS. TodoList Pro helps you organize your tasks with an intuitive interface, deadline tracking, alarm notifications, and image attachments.hhh
 
 
 ✨ Features
