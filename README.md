@@ -3,7 +3,7 @@ A modern, feature-rich task management web application built with vanilla JavaSc
        
     
 ✨ Features 
-    
+      
 -Core Functionality-
 
 ➕ Add Tasks: Create tasks with title, description, deadline, and custom alarm time
